@@ -81,3 +81,7 @@ Caso utilize outra IDE, como Eclipse ou VS Code, basta importar o projeto como u
 ✔ Você encontrará **projetos práticos e exemplos de API REST, Spring MVC e CRUD**;  
 ✔ Para começar, **clonar o repositório e importar na sua IDE**;  
 ✔ O curso ensina **Spring Boot de forma simplificada e eficiente**. 
+
+## Certificado 
+
+![](doc/NEW_SpringBoot3_Spring6_HibernateForBeginners.jpg)
