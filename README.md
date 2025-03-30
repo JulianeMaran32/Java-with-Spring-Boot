@@ -1,25 +1,10 @@
-# Spring Boot 3, Spring 6 & Hibernate
+# Spring Boot 3, Spring 6 & Hibernate para Iniciantes
 
-## 🎯 Objetivo do Repositório
-
-Este repositório contém o código-fonte do curso **[NEW] Spring Boot 3, Spring 6 & Hibernate for Beginners**. Ele foi criado para auxiliar no aprendizado e desenvolvimento de aplicações **Java** utilizando **Spring Boot** e **Hibernate**. Aqui você encontrará exemplos práticos e projetos que acompanham as aulas do curso.
-
-## 📂 O que você encontrará neste repositório?
-
-📌 Código-fonte completo das aulas.  
-📌 Exemplos práticos de **Spring Boot** e **Hibernate**.  
-📌 Implementação de **APIs REST, Spring MVC e operações CRUD**.  
-📌 Projetos com **Spring Security** para controle de acesso.  
-📌 Configurações baseadas em **Java e Maven** (sem XML).  
-📌 Instruções para configuração do ambiente de desenvolvimento.
-
----
-
-## 📥 Como clonar este repositório
+## Como clonar este repositório
 
 Para obter o código-fonte do curso, siga os passos abaixo:
 
-### 🔽 Clonando via Git
+### Clonando via Git
 
 * Este repositório:
 
@@ -33,55 +18,25 @@ git clone https://github.com/JulianeMaran32/Java-with-Spring-Boot.git
 git clone https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners.git
 ```
 
-⚠️ **Usuários do Windows**: Se encontrar erro **"File Names Too Long"**, use **7-Zip** ou execute:
+## Documentação
 
-* Este repositório:
+[Documentação - GitHub Wiki](https://github.com/JulianeMaran32/Java-with-Spring-Boot/wiki)
 
-```sh
-git clone -c core.longpaths=true https://github.com/JulianeMaran32/Java-with-Spring-Boot.git
-```
+## Contribuição
 
-* Repositório do Instrutor do Curso:
+Contribuições são bem-vindas! Consulte o guia completo de contribuições em
+nossa [página de Contribuições](https://github.com/JulianeMaran32/Java-with-Spring-Boot/wiki/Contributing).
 
-```sh
-git clone -c core.longpaths=true https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners.git
-```
+## 📜 Licença
 
-### 📥 Importando o projeto na sua IDE
+Este projeto está licenciado sob a [Licença Apache 2.0](https://opensource.org/licenses/Apache-2.0).
 
-Se estiver utilizando o **IntelliJ IDEA**, siga os passos:
+## 📞 Contato
 
-1. **Abra o IntelliJ IDEA**.  
-2. Clique em **File > Open**.  
-3. Selecione a pasta do projeto clonado.  
-4. Aguarde o IntelliJ carregar as dependências do Maven/Gradle.  
-5. O projeto estará pronto para uso! 🚀  
+- **Email:** julianemaran@gmail.com
+- **LInkedIn:** [Juliane Maran](www.linkedin.com/in/juliane-maran)
+- **GitHub Repo:** [Java-with-Spring-Boot](https://github.com/JulianeMaran32/Java-with-Spring-Boot)
 
-Caso utilize outra IDE, como Eclipse ou VS Code, basta importar o projeto como um **projeto Maven**.
+## Certificado de Conclusão do Curso
 
----
-
-## 🚀 Breve Explicação sobre Spring e Spring Boot
-
-**Spring Framework** é um dos frameworks mais populares para desenvolvimento de aplicações Java. Ele fornece um conjunto de funcionalidades para facilitar a criação de aplicações escaláveis e robustas.
-
-**Spring Boot**, por sua vez, é uma extensão do Spring que simplifica o desenvolvimento de aplicações, eliminando configurações complexas e fornecendo um ambiente pronto para uso. Algumas das principais vantagens incluem:
-
-✔ **Configuração automática** baseada no classpath;  
-✔ **Gerenciamento simplificado de dependências** (Maven/Gradle);  
-✔ **Servidor embarcado** (Tomcat, Jetty, Undertow);  
-✔ **Facilidade na criação de APIs REST e integração com banco de dados**;  
-✔ **Suporte a segurança e autenticação com Spring Security**.
-
----
-
-## 📢 Conclusão
-
-✔ Este repositório contém todo o código do curso **Spring Boot 3 e Hibernate**;  
-✔ Você encontrará **projetos práticos e exemplos de API REST, Spring MVC e CRUD**;  
-✔ Para começar, **clonar o repositório e importar na sua IDE**;  
-✔ O curso ensina **Spring Boot de forma simplificada e eficiente**. 
-
-## Certificado 
-
-![](doc/NEW_SpringBoot3_Spring6_HibernateForBeginners.jpg)
+![Certificado](docs/NEW_SpringBoot3_Spring6_HibernateForBeginners.jpg)
