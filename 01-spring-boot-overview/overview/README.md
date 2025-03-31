@@ -7,7 +7,6 @@ funcionalidades de CRUD.
 
 - Java 17 ou superior
 - Maven
-- Banco de Dados MySQL
 
 ## Instalação
 
@@ -28,21 +27,10 @@ funcionalidades de CRUD.
     ```bash
     mvn clean spring-boot:run
     ```
-   
-4. O projeto estará disponível em http://localhost:8080.
+
+4. O projeto estará disponível em http://localhost:8484.
 
 - **Obs.:** Para empacotar o projeto pode executar `mvn package`.
-
-## Configuração
-
-O projeto usa um banco de dados MySQL, você precisa configurar o arquivo `application.properties` com as credenciais do
-banco:
-
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/nome-do-banco-de-dados
-spring.datasource.username=usuario
-spring.datasource.password=sua-senha
-```
 
 ## Rodando o Projeto
 
@@ -50,21 +38,4 @@ Para rodar a aplicação localmente, use o seguinte comando Maven:
 
 ```bash
 mvn spring-boot:run
-```
-
-## Testes
-
-Para rodar os testes unitários e de integração, use o comando Maven:
-
-```bash
-mvn test
-```
-
-## Docker
-
-Para rodar o projeto usando Docker, você pode construir a imagem e iniciar o container com os seguintes comandos:
-
-```bash
-docker build -t meu-projeto .
-docker run -p 8080:8080 meu-projeto
 ```
