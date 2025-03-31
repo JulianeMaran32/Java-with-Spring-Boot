@@ -21,6 +21,7 @@ public class FunRestController {
     }
 
     // expose a new endpoint for "workout"
+    // treino diário - Corra 5km intensamente!
 
     @GetMapping("/workout")
     public String getDailyWorkout() {
@@ -28,10 +29,11 @@ public class FunRestController {
     }
 
     // expose a new endpoint for "fortune"
+    // fortuna diária - Hoje é seu dia de sorte
 
     @GetMapping("/fortune")
     public String getDailyFortune() {
         return "Today is your lucky day.";
     }
-    
+
 }
