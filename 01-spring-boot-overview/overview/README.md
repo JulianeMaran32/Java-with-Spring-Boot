@@ -31,6 +31,8 @@ funcionalidades de CRUD.
    
 4. O projeto estará disponível em http://localhost:8080.
 
+- **Obs.:** Para empacotar o projeto pode executar `mvn package`.
+
 ## Configuração
 
 O projeto usa um banco de dados MySQL, você precisa configurar o arquivo `application.properties` com as credenciais do
