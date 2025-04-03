@@ -29,12 +29,12 @@ nossa [página de Contribuições](https://github.com/JulianeMaran32/Java-with-S
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [Licença Apache 2.0](https://opensource.org/licenses/Apache-2.0).
+Este projeto está licenciado sob a **[Apache License](./LICENSE)**.
 
 ## 📞 Contato
 
-- **Email:** julianemaran@gmail.com
-- **LInkedIn:** [Juliane Maran](www.linkedin.com/in/juliane-maran)
+- **Email:** [Juliane Maran](mailto:julianemaran@gmail.com)
+- **LinkedIn:** [Juliane Maran](www.linkedin.com/in/juliane-maran)
 - **GitHub Repo:** [Java-with-Spring-Boot](https://github.com/JulianeMaran32/Java-with-Spring-Boot)
 
 ## 💡 Créditos
@@ -48,7 +48,7 @@ Versão atual: **1.0.0**
 
 ## 🔄 Última Atualização
 
-Última atualização: **30 de março de 2025**
+📅 Última atualização: **30/03/2025**
 
 ---
 
