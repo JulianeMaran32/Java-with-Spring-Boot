@@ -1,4 +1,4 @@
-package com.juhmaran.springboot.overview;
+package com.juhmaran.springboot.overview.rest;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
