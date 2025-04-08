@@ -2,7 +2,6 @@ package com.juhmaran.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
-//@Primary
 @Component
 public class CricketCoach implements Coach {
 
